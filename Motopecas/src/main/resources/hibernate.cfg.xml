@@ -10,6 +10,7 @@
 
 		<!-- Configurações de Conexão com o Banco de Dados -->
 		<property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+		
 		<!-- Configurações de nome Banco de Dados -->
 		<property name="connection.url">jdbc:mysql://127.0.0.1:3306/motopecas</property>
 		<property name="connection.username">root</property>
