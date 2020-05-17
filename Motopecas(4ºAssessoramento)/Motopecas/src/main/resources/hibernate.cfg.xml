@@ -72,6 +72,8 @@
 			
 		<mapping class="br.com.tiago.motopecas.domain.Pessoa" />
 		
+		<mapping class="br.com.tiago.motopecas.domain.Caixa" />
+		
 	</session-factory>
 
 </hibernate-configuration>
